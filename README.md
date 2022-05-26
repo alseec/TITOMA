@@ -1,6 +1,6 @@
 # TITOMA
 Firmware exercises
-##AUTHOR
+## AUTHOR
 Juan Alejandro Sepúlveda Echeverri
-##DESCRIPTION
+## DESCRIPTION
 STM32F429
