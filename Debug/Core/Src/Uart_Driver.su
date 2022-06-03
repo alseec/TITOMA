@@ -1,0 +1,8 @@
+../Core/Src/Uart_Driver.c:27:9:uart_driver_get_rx_len	16	static
+../Core/Src/Uart_Driver.c:32:9:uart_driver_get_rx_data	16	static
+../Core/Src/Uart_Driver.c:37:6:uart_driver_store_rx_data	16	static
+../Core/Src/Uart_Driver.c:42:6:uart_driver_send	32	static
+../Core/Src/Uart_Driver.c:56:6:uart_driver_init	16	static
+../Core/Src/Uart_Driver.c:68:6:uart_driver_run	24	static
+../Core/Src/Uart_Driver.c:109:6:HAL_UART_TxCpltcallback	16	static
+../Core/Src/Uart_Driver.c:119:6:HAL_UART_RxCpltcallback	16	static

@@ -1,0 +1,8 @@
+../Core/Src/Ring_Buffer.c:3:13:ring_buffer_reset	16	static
+../Core/Src/Ring_Buffer.c:10:9:ring_buffer_full	16	static
+../Core/Src/Ring_Buffer.c:15:9:ring_buffer_empty	16	static
+../Core/Src/Ring_Buffer.c:20:8:ring_buffer_size	24	static
+../Core/Src/Ring_Buffer.c:36:9:ring_buffer_get	16	static
+../Core/Src/Ring_Buffer.c:47:6:ring_buffer_put	16	static
+../Core/Src/Ring_Buffer.c:61:9:ring_buffer_init	24	static
+../Core/Src/Ring_Buffer.c:72:10:ring_buffer_tail_position	16	static
